@@ -1,5 +1,5 @@
 ### ❓ What is ft_printf?
-Recreate the printf function, which is the main way of printing to output in c
+The project involves recreating C's printf function, which is the common way variables are printed to output
 
 ### 📖 Main concepts
 String parsing, overloading args, format specifiers
